@@ -1,7 +1,7 @@
 ## Hey! Welcome to my profile 👋
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
-💻 Building cool stuffs with Node, ReactJS, Next.js 
+💻 Building cool stuffs with Node.js, React.js, Nest.js 
 
 
 🚀Learning is continuous and there will always be a next level 
